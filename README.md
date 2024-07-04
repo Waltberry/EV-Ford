@@ -8,6 +8,7 @@ This project is part of Ford's electrical vehicle (EV) engineering division inte
 
 The project structure is as follows:
 
+```
 EV-FORD/
 ├── Ford EV Engineering Intro/
 │   ├── __pycache__/
@@ -16,6 +17,7 @@ EV-FORD/
 │   ├── task1-data.xlsx
 │   ├── task1-result.xlsx
 │   └── velocityBasedController.py
+```
 
 ### Files and Directories
 
