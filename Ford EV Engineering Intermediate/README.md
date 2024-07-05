@@ -63,12 +63,6 @@ This simulation provided an immersive experience into electric vehicle (EV) engi
 - **Cost**: $5,000 to $50,000 per unit.
 - **Applications**: Comprehensive 3D perception of the environment.
 
-##### Presenting Your Findings
-To assist the engineering division in choosing the most appropriate options, present your findings in the form of simple tables with short written explanations. This will include:
-
-- Cost and performance comparisons for different battery form factors.
-- Cost and performance comparisons for different LiDAR sensor models.
-
 **Key Insights:**
 - **Battery Selection:** Cylindrical batteries offer cost-effectiveness and reliability, pouch batteries suit compact devices, and prismatic batteries balance longevity and performance.
 - **LiDAR Choices:** Mechanical LiDAR is cost-effective for detailed mapping, solid-state excels in durability and speed, while hybrid LiDAR balances performance and cost.
